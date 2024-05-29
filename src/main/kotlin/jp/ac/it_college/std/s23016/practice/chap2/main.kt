@@ -1,7 +1,5 @@
 package jp.ac.it_college.std.s23016.practice.chap2
 
-import User4
-
 typealias Calc = (Int, Int) -> Int
 
 fun main() {
