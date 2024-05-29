@@ -36,7 +36,7 @@ fun main() {
     }
     println(oddNumbers3)
 
-    println("----2.7おまけ----")
+    println("----2.7.おまけ1----")
     randomGenerateNumber()?.run {
         println("1回目: ${this}が生成されました。")
         println("${this}の３倍は${this * 3}です。")
